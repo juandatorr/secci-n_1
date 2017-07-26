@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My APP</string>
+    <string name="action_settings">Setting</string>
+    <string name="siguiente">Ir siguiente</string>
+    <string name="nombre_text">Nombre</string>
+    <string name="saludo">Saludo</string>
+    <string name="despedida">Despedida</string>
+    <string name="edad">Edad</string>
+    <string name="compartir">Compartir</string>
+</resources>
